@@ -75,7 +75,7 @@ const App: () => Node = () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Welcome My Hollo World Application">
+          <Section title="Welcome TO My Hello World Application">
             React Native is
             <Text style={styles.textStyle}>
               an open-source UI software framework created by Meta Platforms,
